@@ -1,0 +1,57 @@
+.Principal{
+    margin: 0 auto;
+    width: 700px;
+    height: 500px;
+    border: 1px solid red;
+}
+.Cabecalho{
+    width: 699px;
+    height: 50px;
+    border: 1px solid red;
+}
+.Menu{
+    width: 699px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: yellow;
+}
+.Corpo{
+    width: 550px;
+    height: 50px;
+    border: 1px solid red;
+    background-color: rgb(223, 214, 92);
+    float: right;
+}
+.Corpo2{
+    width: 550px;
+    height: 250px;
+    border: 1px solid red;
+    background-color: rgb(223, 214, 92);
+    float: right;
+}
+.Corpo3{
+    width: 550px;
+    height: 60px;
+    border: 1px solid red;
+    background-color: rgb(223, 214, 92);
+    float: right;
+}
+.Corpo4{
+    width: 145px;
+    height: 365px;
+    border: 1px solid pink;
+    background-color: yellow;
+    top: 100px;
+    left: 560px;
+}
+.Rodape{
+    width: 699px;
+    height: 49px;
+    border: 1px solid red;
+    float: right;
+}
+
+
+
+
+
